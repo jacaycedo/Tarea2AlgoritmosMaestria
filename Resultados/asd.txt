@@ -1,0 +1,10 @@
+El numero de trabajos que se puede realizar es: 6.0
+
+SOLUCION PARA CASO SELECCIONADO 
+
+Trabajador 1 hace trabajo 7
+Trabajador 2 hace trabajo 10
+Trabajador 3 hace trabajo 8
+Trabajador 4 hace trabajo 9
+Trabajador 5 hace trabajo 13
+Trabajador 6 hace trabajo 12

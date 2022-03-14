@@ -74,7 +74,7 @@ public class Solucion {
 		}
 		long result = 0;
 		for (int i = 0; i < n; ++i)
-			result += flow[destino][i];
-		return result;
+			result += flow[i][destino];
+		return (result);
 	}
 }
